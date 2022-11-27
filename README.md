@@ -1,1 +1,1 @@
-# App of random dogs photos with via api 
+# Fetch Dogs API in JS  
